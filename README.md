@@ -1,6 +1,6 @@
 # Disney Hotstar Clone
 
-Site Live At: https://hotstar-clone-reactjs.netlify.app/
+Site Live At: https://hotstar-cloning.vercel.app/
 
 ## Languages Used
 
